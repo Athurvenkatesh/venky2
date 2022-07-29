@@ -2,5 +2,9 @@ hello welcome to github venky
 his lives in bangalore
 nice to meet u
 hello git how r u
+<<<<<<< HEAD
 welcome to git 
 next time
+=======
+tell me 
+>>>>>>> 7758bdbad0a86308e93ad7b1919d47385889e444
